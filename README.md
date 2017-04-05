@@ -8,3 +8,6 @@
 
 ## Maven
 1. [Maven那点事儿](https://my.oschina.net/huangyong/blog/194583)
+
+## Scrapy
+1. [scrapy爬虫教程导航](http://brucedone.com/archives/771)
