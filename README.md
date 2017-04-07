@@ -11,3 +11,6 @@
 
 ## Scrapy
 1. [scrapy爬虫教程导航](http://brucedone.com/archives/771)
+
+## Java
+1. [避免在 Java 接口中使用数组的 3 个理由](https://www.oschina.net/translate/3-good-reasons-to-avoid-arrays-in-java-interfaces)
