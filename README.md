@@ -14,3 +14,4 @@
 
 ## Java
 1. [避免在 Java 接口中使用数组的 3 个理由](https://www.oschina.net/translate/3-good-reasons-to-avoid-arrays-in-java-interfaces)
+2. [浅谈Java集合中Array(数组)的应用](http://cping1982.blog.51cto.com/601635/130062/)
