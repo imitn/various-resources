@@ -16,3 +16,6 @@
 ## Java
 1. [避免在 Java 接口中使用数组的 3 个理由](https://www.oschina.net/translate/3-good-reasons-to-avoid-arrays-in-java-interfaces)
 2. [浅谈Java集合中Array(数组)的应用](http://cping1982.blog.51cto.com/601635/130062/)
+
+## Data Mining
+1. [数据挖掘模型中的IV和WOE详解](http://www.17bigdata.com/%E6%95%B0%E6%8D%AE%E6%8C%96%E6%8E%98%E6%A8%A1%E5%9E%8B%E4%B8%AD%E7%9A%84iv%E5%92%8Cwoe%E8%AF%A6%E8%A7%A3.html)
