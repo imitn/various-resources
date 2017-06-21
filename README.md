@@ -27,3 +27,6 @@
 
 ## Models
 1. [揭秘Kaggle神器xgboost](http://mp.weixin.qq.com/s/HKkE5h8N5ZiYMM3uB1juJQ)
+
+## Python
+1.[Anaconda使用总结](http://python.jobbole.com/86236/)
