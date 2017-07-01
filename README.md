@@ -26,3 +26,6 @@
 ## Python
 1. [Anaconda使用总结](http://python.jobbole.com/86236/)
 2. [scrapy爬虫教程导航](http://brucedone.com/archives/771)
+
+## Kaggle
+1. [Kaggle 入门指南](https://zhuanlan.zhihu.com/p/25742261)
