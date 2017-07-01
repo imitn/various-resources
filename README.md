@@ -21,6 +21,7 @@
 3. [数据挖掘模型中的IV和WOE详解](http://www.17bigdata.com/%E6%95%B0%E6%8D%AE%E6%8C%96%E6%8E%98%E6%A8%A1%E5%9E%8B%E4%B8%AD%E7%9A%84iv%E5%92%8Cwoe%E8%AF%A6%E8%A7%A3.html)
 4. [ROC和AUC介绍以及如何计算AUC](https://www.douban.com/note/284051363/)
 5. [揭秘Kaggle神器xgboost](http://mp.weixin.qq.com/s/HKkE5h8N5ZiYMM3uB1juJQ)
+6. [深度学习在推荐领域的应用](http://geek.csdn.net/news/detail/200138)
 
 ## Python
 1. [Anaconda使用总结](http://python.jobbole.com/86236/)
