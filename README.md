@@ -10,23 +10,18 @@
 ## Maven
 1. [Maven那点事儿](https://my.oschina.net/huangyong/blog/194583)
 
-## Scrapy
-1. [scrapy爬虫教程导航](http://brucedone.com/archives/771)
-
 ## Java
 1. [避免在 Java 接口中使用数组的 3 个理由](https://www.oschina.net/translate/3-good-reasons-to-avoid-arrays-in-java-interfaces)
 2. [浅谈Java集合中Array(数组)的应用](http://cping1982.blog.51cto.com/601635/130062/)
 
-## Data Mining
-1. [数据挖掘模型中的IV和WOE详解](http://www.17bigdata.com/%E6%95%B0%E6%8D%AE%E6%8C%96%E6%8E%98%E6%A8%A1%E5%9E%8B%E4%B8%AD%E7%9A%84iv%E5%92%8Cwoe%E8%AF%A6%E8%A7%A3.html)
-2. [ROC和AUC介绍以及如何计算AUC](https://www.douban.com/note/284051363/)
-
-## Machine Learning
+## AI
  
 1. [An overview of gradient descent optimization algorithms](http://sebastianruder.com/optimizing-gradient-descent/index.html)
-
-## Models
-1. [揭秘Kaggle神器xgboost](http://mp.weixin.qq.com/s/HKkE5h8N5ZiYMM3uB1juJQ)
+2. [Discover Feature Engineering, How to Engineer Features and How to Get Good at It](http://machinelearningmastery.com/discover-feature-engineering-how-to-engineer-features-and-how-to-get-good-at-it/)
+3. [数据挖掘模型中的IV和WOE详解](http://www.17bigdata.com/%E6%95%B0%E6%8D%AE%E6%8C%96%E6%8E%98%E6%A8%A1%E5%9E%8B%E4%B8%AD%E7%9A%84iv%E5%92%8Cwoe%E8%AF%A6%E8%A7%A3.html)
+4. [ROC和AUC介绍以及如何计算AUC](https://www.douban.com/note/284051363/)
+5. [揭秘Kaggle神器xgboost](http://mp.weixin.qq.com/s/HKkE5h8N5ZiYMM3uB1juJQ)
 
 ## Python
 1. [Anaconda使用总结](http://python.jobbole.com/86236/)
+2. [scrapy爬虫教程导航](http://brucedone.com/archives/771)
