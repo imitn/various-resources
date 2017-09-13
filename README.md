@@ -31,3 +31,6 @@
 
 ## Kaggle
 1. [Kaggle 入门指南](https://zhuanlan.zhihu.com/p/25742261)
+
+## Anomaly Detection
+1. [孤立森林 异常检测 入门篇](http://www.jianshu.com/p/5af3c66e0410)
