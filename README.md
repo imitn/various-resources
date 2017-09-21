@@ -22,6 +22,7 @@
 4. [ROC和AUC介绍以及如何计算AUC](https://www.douban.com/note/284051363/)
 5. [揭秘Kaggle神器xgboost](http://mp.weixin.qq.com/s/HKkE5h8N5ZiYMM3uB1juJQ)
 6. [深度学习在推荐领域的应用](http://geek.csdn.net/news/detail/200138)
+7. [机器学习中的范数规则化之L0、L1与L2范数](http://blog.csdn.net/zouxy09/article/details/24971995)
 
 ## Python
 1. [Anaconda使用总结](http://python.jobbole.com/86236/)
