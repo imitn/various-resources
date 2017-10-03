@@ -24,6 +24,9 @@
 6. [深度学习在推荐领域的应用](http://geek.csdn.net/news/detail/200138)
 7. [机器学习中的范数规则化之L0、L1与L2范数](http://blog.csdn.net/zouxy09/article/details/24971995)
 
+## Restricted Boltzmann Machine
+1. [Restricted Boltzmann Machine, simple example (MATLAB preferred)](https://stats.stackexchange.com/questions/196924/restricted-boltzmann-machine-simple-example-matlab-preferred/197869)
+2. [nnbox](https://github.com/nlgranger/nnbox)
 ## Python
 1. [Anaconda使用总结](http://python.jobbole.com/86236/)
 2. [scrapy爬虫教程导航](http://brucedone.com/archives/771)
