@@ -23,6 +23,7 @@
 5. [揭秘Kaggle神器xgboost](http://mp.weixin.qq.com/s/HKkE5h8N5ZiYMM3uB1juJQ)
 6. [深度学习在推荐领域的应用](http://geek.csdn.net/news/detail/200138)
 7. [机器学习中的范数规则化之L0、L1与L2范数](http://blog.csdn.net/zouxy09/article/details/24971995)
+8. [Hao Wang (王灏)](http://www.wanghao.in/publication.html)
 
 ## Restricted Boltzmann Machine
 1. [Restricted Boltzmann Machine, simple example (MATLAB preferred)](https://stats.stackexchange.com/questions/196924/restricted-boltzmann-machine-simple-example-matlab-preferred/197869)
