@@ -33,6 +33,7 @@
 2. [scrapy爬虫教程导航](http://brucedone.com/archives/771)
 3. [NumPy Cheat Sheet - Python for Data Science](https://www.dataquest.io/blog/numpy-cheat-sheet/)
 4. [Pandas Cheat Sheet - Python for Data Science](https://www.dataquest.io/blog/pandas-cheat-sheet/)
+5. [使用sklearn进行K_Means聚类算法](http://blog.csdn.net/EleanorWiser/article/details/70226704)
 
 ## Kaggle
 1. [Kaggle 入门指南](https://zhuanlan.zhihu.com/p/25742261)
