@@ -47,3 +47,4 @@
 ## Matlab 
 1. [Matlab Toolbox for Dimensionality Reduction](https://lvdmaaten.github.io/drtoolbox/)
 2. [Matlab 安装包](http://blog.sina.com.cn/s/blog_14d1511ee0102wxi4.html)
+3. [Construct Deep Network Using Autoencoders](https://cn.mathworks.com/help/nnet/ug/construct-deep-network-using-autoencoders.html)
