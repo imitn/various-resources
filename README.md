@@ -50,5 +50,5 @@
 3. [Construct Deep Network Using Autoencoders](https://cn.mathworks.com/help/nnet/ug/construct-deep-network-using-autoencoders.html)
 
 ## Blog
-1、[Minmin Chen](http://www.cse.wustl.edu/~mchen/)
-2、[美团点评技术团队](https://tech.meituan.com/)
+1. [Minmin Chen](http://www.cse.wustl.edu/~mchen/)
+2. [美团点评技术团队](https://tech.meituan.com/)
