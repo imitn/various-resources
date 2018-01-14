@@ -26,6 +26,7 @@
 8. [Hao Wang (王灏)](http://www.wanghao.in/publication.html)
 9. [K-means聚类算法的三种改进](https://www.cnblogs.com/yixuan-xu/p/6272208.html)
 10. [Applied Machine Learning](https://machinelearningmastery.com/start-here/)
+11. [Welcoming the Era of Deep Neuroevolution](https://eng.uber.com/deep-neuroevolution/?utm_source=qq&utm_medium=social)
 
 ## Restricted Boltzmann Machine
 1. [Restricted Boltzmann Machine, simple example (MATLAB preferred)](https://stats.stackexchange.com/questions/196924/restricted-boltzmann-machine-simple-example-matlab-preferred/197869)
