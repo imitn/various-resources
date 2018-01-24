@@ -56,5 +56,5 @@
 1. [Minmin Chen](http://www.cse.wustl.edu/~mchen/)
 2. [美团点评技术团队](https://tech.meituan.com/)
 
-## Becommendation
+## Recommendation
 1. [你不能错过的“推荐系统”资料合集](https://yq.aliyun.com/articles/54403)
