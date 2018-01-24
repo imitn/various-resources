@@ -58,3 +58,4 @@
 
 ## Recommendation
 1. [你不能错过的“推荐系统”资料合集](https://yq.aliyun.com/articles/54403)
+2. [Spark 基于item和user 的协同过滤实现](http://blog.csdn.net/mach_learn/article/details/46890833)
