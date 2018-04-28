@@ -29,6 +29,7 @@
 11. [Welcoming the Era of Deep Neuroevolution](https://eng.uber.com/deep-neuroevolution/?utm_source=qq&utm_medium=social)
 12. [Neuroevolution: A different kind of deep learning](https://www.oreilly.com/ideas/neuroevolution-a-different-kind-of-deep-learning)
 12. [Spark下四种中文分词工具使用](http://blog.csdn.net/bianenze/article/details/76269720)
+13. [特征哈希（Feature Hashing）](http://breezedeus.github.io/2014/11/20/breezedeus-feature-hashing.html)
 
 ## Restricted Boltzmann Machine
 1. [Restricted Boltzmann Machine, simple example (MATLAB preferred)](https://stats.stackexchange.com/questions/196924/restricted-boltzmann-machine-simple-example-matlab-preferred/197869)
