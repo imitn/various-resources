@@ -31,10 +31,12 @@
 12. [Spark下四种中文分词工具使用](http://blog.csdn.net/bianenze/article/details/76269720)
 13. [特征哈希（Feature Hashing）](http://breezedeus.github.io/2014/11/20/breezedeus-feature-hashing.html)
 14. [Feature hashing](https://en.wikipedia.org/wiki/Feature_hashing)
+15. [A Full Integration of XGBoost and Apache Spark](http://dmlc.ml/2016/10/26/a-full-integration-of-xgboost-and-spark.html)
 
 ## Restricted Boltzmann Machine
 1. [Restricted Boltzmann Machine, simple example (MATLAB preferred)](https://stats.stackexchange.com/questions/196924/restricted-boltzmann-machine-simple-example-matlab-preferred/197869)
 2. [nnbox](https://github.com/nlgranger/nnbox)
+
 ## Python
 1. [Anaconda使用总结](http://python.jobbole.com/86236/)
 2. [scrapy爬虫教程导航](http://brucedone.com/archives/771)
@@ -50,6 +52,7 @@
 
 ## Time Series
 1. [blog](https://www.quora.com/How-does-one-apply-deep-learning-to-time-series-forecasting)
+
 ## Matlab 
 1. [Matlab Toolbox for Dimensionality Reduction](https://lvdmaaten.github.io/drtoolbox/)
 2. [Matlab 安装包](http://blog.sina.com.cn/s/blog_14d1511ee0102wxi4.html)
