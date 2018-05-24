@@ -29,9 +29,12 @@
 11. [Welcoming the Era of Deep Neuroevolution](https://eng.uber.com/deep-neuroevolution/?utm_source=qq&utm_medium=social)
 12. [Neuroevolution: A different kind of deep learning](https://www.oreilly.com/ideas/neuroevolution-a-different-kind-of-deep-learning)
 12. [Spark下四种中文分词工具使用](http://blog.csdn.net/bianenze/article/details/76269720)
-13. [特征哈希（Feature Hashing）](http://breezedeus.github.io/2014/11/20/breezedeus-feature-hashing.html)
-14. [Feature hashing](https://en.wikipedia.org/wiki/Feature_hashing)
-15. [A Full Integration of XGBoost and Apache Spark](http://dmlc.ml/2016/10/26/a-full-integration-of-xgboost-and-spark.html)
+13. [Feature hashing](https://en.wikipedia.org/wiki/Feature_hashing)
+14. [A Full Integration of XGBoost and Apache Spark](http://dmlc.ml/2016/10/26/a-full-integration-of-xgboost-and-spark.html)
+
+## Feature Processing
+1. [Feature Processing](http://breezedeus.github.io/2014/11/15/breezedeus-feature-processing.html)
+2. [特征哈希（Feature Hashing）](http://breezedeus.github.io/2014/11/20/breezedeus-feature-hashing.html)
 
 ## Restricted Boltzmann Machine
 1. [Restricted Boltzmann Machine, simple example (MATLAB preferred)](https://stats.stackexchange.com/questions/196924/restricted-boltzmann-machine-simple-example-matlab-preferred/197869)
