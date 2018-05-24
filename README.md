@@ -69,3 +69,4 @@
 
 ## Tools
 1. [FooPlot](http://fooplot.com/)
+2. [在IDEA中实战Git](https://blog.csdn.net/autfish/article/details/52513465)
