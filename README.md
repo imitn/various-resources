@@ -31,6 +31,7 @@
 12. [Spark下四种中文分词工具使用](http://blog.csdn.net/bianenze/article/details/76269720)
 13. [Feature hashing](https://en.wikipedia.org/wiki/Feature_hashing)
 14. [A Full Integration of XGBoost and Apache Spark](http://dmlc.ml/2016/10/26/a-full-integration-of-xgboost-and-spark.html)
+15. [判断算法收敛的利器：压缩映射原理](https://zhuanlan.zhihu.com/p/36295613)
 
 ## Feature Processing
 1. [Feature Processing](http://breezedeus.github.io/2014/11/15/breezedeus-feature-processing.html)
@@ -73,3 +74,13 @@
 ## Tools
 1. [FooPlot](http://fooplot.com/)
 2. [在IDEA中实战Git](https://blog.csdn.net/autfish/article/details/52513465)
+
+## Neuroevolution
+1. [Population based training of neural networks](https://deepmind.com/blog/population-based-training-neural-networks/)
+2. [Neuroevolution: A different kind of deep learning](https://www.oreilly.com/ideas/neuroevolution-a-different-kind-of-deep-learning)
+3. [Welcoming the Era of Deep Neuroevolution](https://eng.uber.com/deep-neuroevolution/?utm_source=qq&utm_medium=social)
+4. [Tensorflow.js(神经)进化建模 by Siraj Raval](https://www.bilibili.com/video/av24577330/)
+5. [进化计算在深度学习中的应用 | 附多篇论文解读](https://zhuanlan.zhihu.com/p/37493469)
+6. [从遗传算法到OpenAI新方向：进化策略工作机制全解](https://zhuanlan.zhihu.com/p/30981469)
+7. [协方差自适应调整的进化策略（CMA-ES）](https://zhuanlan.zhihu.com/p/31193293)
+6.[]()
