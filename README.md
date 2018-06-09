@@ -70,6 +70,8 @@
 1. [你不能错过的“推荐系统”资料合集](https://yq.aliyun.com/articles/54403)
 2. [Spark 基于item和user 的协同过滤实现](http://blog.csdn.net/mach_learn/article/details/46890833)
 3. [郭贵冰](https://www.librec.net/luckymoon.me/)
+4. [Factorization Machines with Tensorflow](http://nowave.it/factorization-machines-with-tensorflow.html)
+5. [Factorization Machines with tensorflow tutorial](https://github.com/babakx/fm_tensorflow/blob/master/fm_tensorflow.ipynb)
 
 ## Tools
 1. [FooPlot](http://fooplot.com/)
