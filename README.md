@@ -32,6 +32,7 @@
 13. [Feature hashing](https://en.wikipedia.org/wiki/Feature_hashing)
 14. [A Full Integration of XGBoost and Apache Spark](http://dmlc.ml/2016/10/26/a-full-integration-of-xgboost-and-spark.html)
 15. [判断算法收敛的利器：压缩映射原理](https://zhuanlan.zhihu.com/p/36295613)
+16. [Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu/)
 
 ## Feature Processing
 1. [Feature Processing](http://breezedeus.github.io/2014/11/15/breezedeus-feature-processing.html)
