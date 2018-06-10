@@ -85,3 +85,6 @@
 5. [进化计算在深度学习中的应用 | 附多篇论文解读](https://zhuanlan.zhihu.com/p/37493469)
 6. [从遗传算法到OpenAI新方向：进化策略工作机制全解](https://zhuanlan.zhihu.com/p/30981469)
 7. [协方差自适应调整的进化策略（CMA-ES）](https://zhuanlan.zhihu.com/p/31193293)
+8. [神经进化：一种不一样的深度学习](https://zhuanlan.zhihu.com/p/30190719)
+9. [优步发布VINE，一个用于神经进化的开源交互式数据可视化工具](https://zhuanlan.zhihu.com/p/34738687)
+10. [神经网络也能进化? Neuro-Evolution](https://zhuanlan.zhihu.com/p/29074742)
