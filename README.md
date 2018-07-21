@@ -92,3 +92,4 @@
 
 ## XGBoost
 1. [Spark XGBoost的一些问题](https://blog.csdn.net/jiangda_0_0/article/details/78728551)
+2. [XGBoost：参数解释](https://blog.csdn.net/zc02051126/article/details/46711047)
