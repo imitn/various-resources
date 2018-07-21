@@ -93,3 +93,4 @@
 ## XGBoost
 1. [Spark XGBoost的一些问题](https://blog.csdn.net/jiangda_0_0/article/details/78728551)
 2. [XGBoost：参数解释](https://blog.csdn.net/zc02051126/article/details/46711047)
+3. [Building a Unified Data Pipeline with Apache Spark and XGBoost](https://www.bilibili.com/video/av21282657?from=search&seid=11877889160197846728)
