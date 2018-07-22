@@ -89,6 +89,8 @@
 8. [神经进化：一种不一样的深度学习](https://zhuanlan.zhihu.com/p/30190719)
 9. [优步发布VINE，一个用于神经进化的开源交互式数据可视化工具](https://zhuanlan.zhihu.com/p/34738687)
 10. [神经网络也能进化? Neuro-Evolution](https://zhuanlan.zhihu.com/p/29074742)
+11. [带引导的进化策略：摆脱随机搜索中维数爆炸的魔咒](https://zhuanlan.zhihu.com/p/40313478)
+12. [Guided Evolutionary Strategies](https://github.com/brain-research/guided-evolutionary-strategies)
 
 ## XGBoost
 1. [Spark XGBoost的一些问题](https://blog.csdn.net/jiangda_0_0/article/details/78728551)
