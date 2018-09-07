@@ -49,6 +49,7 @@
 4. [Pandas Cheat Sheet - Python for Data Science](https://www.dataquest.io/blog/pandas-cheat-sheet/)
 5. [使用sklearn进行K_Means聚类算法](http://blog.csdn.net/EleanorWiser/article/details/70226704)
 6. [清华大学开源软件镜像站](https://mirrors.tuna.tsinghua.edu.cn/help/anaconda/)
+7. [莫烦python](https://morvanzhou.github.io/)
 
 ## Kaggle
 1. [Kaggle 入门指南](https://zhuanlan.zhihu.com/p/25742261)
