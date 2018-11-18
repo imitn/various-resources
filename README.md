@@ -76,6 +76,7 @@
 3. [郭贵冰](https://www.librec.net/luckymoon.me/)
 4. [Factorization Machines with Tensorflow](http://nowave.it/factorization-machines-with-tensorflow.html)
 5. [Factorization Machines with tensorflow tutorial](https://github.com/babakx/fm_tensorflow/blob/master/fm_tensorflow.ipynb)
+6. [从FM推演各深度CTR预估模型](https://yq.aliyun.com/articles/614262?spm=a2c4e.11163080.searchblog.119.48912ec1Avric7)
 
 ## Tools
 1. [FooPlot](http://fooplot.com/)
