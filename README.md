@@ -15,7 +15,6 @@
 2. [浅谈Java集合中Array(数组)的应用](http://cping1982.blog.51cto.com/601635/130062/)
 
 ## AI
- 
 1. [An overview of gradient descent optimization algorithms](http://sebastianruder.com/optimizing-gradient-descent/index.html)
 2. [Discover Feature Engineering, How to Engineer Features and How to Get Good at It](http://machinelearningmastery.com/discover-feature-engineering-how-to-engineer-features-and-how-to-get-good-at-it/)
 3. [数据挖掘模型中的IV和WOE详解](http://www.17bigdata.com/%E6%95%B0%E6%8D%AE%E6%8C%96%E6%8E%98%E6%A8%A1%E5%9E%8B%E4%B8%AD%E7%9A%84iv%E5%92%8Cwoe%E8%AF%A6%E8%A7%A3.html)
