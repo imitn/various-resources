@@ -37,6 +37,7 @@
 ## Feature Processing
 1. [Feature Processing](http://breezedeus.github.io/2014/11/15/breezedeus-feature-processing.html)
 2. [特征哈希（Feature Hashing）](http://breezedeus.github.io/2014/11/20/breezedeus-feature-hashing.html)
+3. [数据挖掘模型中的IV和WOE详解](https://blog.csdn.net/kevin7658/article/details/50780391)
 
 ## Restricted Boltzmann Machine
 1. [Restricted Boltzmann Machine, simple example (MATLAB preferred)](https://stats.stackexchange.com/questions/196924/restricted-boltzmann-machine-simple-example-matlab-preferred/197869)
