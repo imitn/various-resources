@@ -103,3 +103,6 @@
 
 ## Optimization
 1. [OWL-QN算法](https://www.cnblogs.com/vivounicorn/archive/2012/06/25/2561071.html)
+
+## Spark
+1. [基于YARN集群构建运行PySpark Application](http://shiyanjun.cn/archives/1738.html)
