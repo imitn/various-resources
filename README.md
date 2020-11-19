@@ -1,5 +1,5 @@
 # various-resources
-##pytorch
+## pytorch
 1. [《动手学深度学习》](https://tangshusen.me/Dive-into-DL-PyTorch/#/)
 2. [stock prediction LSTM using PyTorch](https://www.kaggle.com/taronzakaryan/stock-prediction-lstm-using-pytorch)
 3. [Time Series Forecasting with LSTMs for Daily Coronavirus Cases using PyTorch in Python](https://curiousily.com/posts/time-series-forecasting-with-lstm-for-daily-coronavirus-cases/)
