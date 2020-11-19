@@ -1,4 +1,10 @@
 # various-resources
+##pytorch
+1. [《动手学深度学习》](https://tangshusen.me/Dive-into-DL-PyTorch/#/)
+2. [stock prediction LSTM using PyTorch](https://www.kaggle.com/taronzakaryan/stock-prediction-lstm-using-pytorch)
+3. [Time Series Forecasting with LSTMs for Daily Coronavirus Cases using PyTorch in Python](https://curiousily.com/posts/time-series-forecasting-with-lstm-for-daily-coronavirus-cases/)
+4. [LSTM for time series prediction](https://towardsdatascience.com/lstm-for-time-series-prediction-de8aeb26f2ca)
+
 ## Redis
 1. [Redis本身有持久化，为什么还要写进mysql呢？](https://www.v2ex.com/t/219551)
 2. [学习Redis从这里开始](http://www.epubit.com.cn/article/200)
