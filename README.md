@@ -57,6 +57,7 @@
 6. [清华大学开源软件镜像站](https://mirrors.tuna.tsinghua.edu.cn/help/anaconda/)
 7. [莫烦python](https://morvanzhou.github.io/)
 8. [Pytorch](https://pytorch.org/tutorials/)
+9. [Python中numpy数组的拼接、合并](https://blog.csdn.net/qq_39516859/article/details/80666070)
 
 ## Kaggle
 1. [Kaggle 入门指南](https://zhuanlan.zhihu.com/p/25742261)
