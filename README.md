@@ -39,6 +39,7 @@
 16. [A Full Integration of XGBoost and Apache Spark](http://dmlc.ml/2016/10/26/a-full-integration-of-xgboost-and-spark.html)
 17. [判断算法收敛的利器：压缩映射原理](https://zhuanlan.zhihu.com/p/36295613)
 18. [Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu/)
+19. [由Logistic Regression所联想到的](https://www.heywhale.com/mw/project/5d42616bc143cf002bd2fd9e)
 
 ## Feature Processing
 1. [Feature Processing](http://breezedeus.github.io/2014/11/15/breezedeus-feature-processing.html)
