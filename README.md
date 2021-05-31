@@ -90,6 +90,7 @@
 ## Tools
 1. [FooPlot](http://fooplot.com/)
 2. [在IDEA中实战Git](https://blog.csdn.net/autfish/article/details/52513465)
+3. [Cmd Markdown 公式指导手册](https://www.zybuluo.com/codeep/note/163962)
 
 ## Neuroevolution
 1. [Population based training of neural networks](https://deepmind.com/blog/population-based-training-neural-networks/)
