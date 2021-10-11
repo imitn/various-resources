@@ -69,6 +69,7 @@
 
 ## Time Series
 1. [blog](https://www.quora.com/How-does-one-apply-deep-learning-to-time-series-forecasting)
+2. [预测：方法与实践](https://otexts.com/fppcn/)
 
 ## Matlab 
 1. [Matlab Toolbox for Dimensionality Reduction](https://lvdmaaten.github.io/drtoolbox/)
