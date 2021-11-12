@@ -117,3 +117,4 @@
 
 ## Spark
 1. [基于YARN集群构建运行PySpark Application](http://shiyanjun.cn/archives/1738.html)
+2. [Angel v3.0 全栈机器学习平台文档](https://www.bookstack.cn/read/angel-v3.0/README_cn.md)
